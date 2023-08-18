@@ -27,6 +27,7 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/a/BwEpJSY/Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Link to gif Walkthrough (http://i.imgur.com/a/BwEpJSY/Animation.gif)
 
 GIF created with [ScreenToGif] (https://www.screentogif.com/)
 
